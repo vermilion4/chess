@@ -63,7 +63,7 @@ nav {
 }
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.6), transparent),
-    url("../src/assets/chesspieces.jpg");
+    url("../src/assets/images/chesspieces.jpg");
   min-height: 90vh;
   background-repeat: no-repeat;
   background-position: center;
